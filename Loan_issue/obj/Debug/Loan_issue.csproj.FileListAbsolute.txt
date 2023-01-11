@@ -1,0 +1,367 @@
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptExpire.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe.config
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.exe
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\bin\Debug\Loan_issue.pdb
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptExpire.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.Report.rptCompletedLoan.resources
+D:\jude sir backup\Loan Issue\Loan_Issue_system - Copy\Loan_issue - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy - Copy\Loan_issue\obj\Debug\Loan_issue.User_Control.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptCompletedLoan.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptExpire.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+D:\My projects\Loan_Issue_system\Loan_issue\Loan_issue\obj\Debug\Loan_issue.User_Control.resources
+G:\menaya\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe.config
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.pdb
+G:\menaya\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe
+G:\menaya\Loan_issue\Loan_issue\bin\Debug\Loan_issue.pdb
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptCompletedLoan.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptExpire.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.User_Control.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+G:\menaya\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe.licenses
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\bin\Debug\Loan_issue.exe.config
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csprojResolveAssemblyReference.cache
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.ApprovePaymentDoc.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Back_UP_Form.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Form1.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Loan_Issue.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.MainForm.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Customer.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.New_Loan_Type.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Properties.Resources.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptCompletedLoan.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptExpire.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPayMethode.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.Daily_Collection.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptApprovedDoc.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptNew_LoanDetails.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptAllCustomer.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.Report.rptPaymentAdd.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.User_Control.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.UserProfile.resources
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.csproj.GenerateResource.Cache
+E:\DAX solution softwares-20210516T131324Z-001\DAX solution softwares\Menaya Investment PVT\2015-02-09\Loan_issue\Loan_issue\obj\Debug\Loan_issue.exe.licenses

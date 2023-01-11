@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3B43DEA8-1862-4EE7-AE01-DA2A04BF4382}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Loan_issue</RootNamespace>
+    <AssemblyName>Loan_issue</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v20.1.Export, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1.UI, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v20.1.Extensions, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\14.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApprovePaymentDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApprovePaymentDoc.Designer.cs">
+      <DependentUpon>ApprovePaymentDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Back_UP_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Back_UP_Form.Designer.cs">
+      <DependentUpon>Back_UP_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loan_Issue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loan_Issue.Designer.cs">
+      <DependentUpon>Loan_Issue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Customer.Designer.cs">
+      <DependentUpon>New_Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Loan_Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Loan_Type.Designer.cs">
+      <DependentUpon>New_Loan_Type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\AllCustomer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AllCustomer.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\CompletedLoad.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompletedLoad.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\DailyCollection.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyCollection.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\expir.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>expir.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\PaymentAdd2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentAdd.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\PayMethod.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PayMethod.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptCompletedLoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptCompletedLoan.Designer.cs">
+      <DependentUpon>rptCompletedLoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptExpire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptExpire.Designer.cs">
+      <DependentUpon>rptExpire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptPayMethode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptPayMethode.Designer.cs">
+      <DependentUpon>rptPayMethode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptDailyCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptDailyCollection.Designer.cs">
+      <DependentUpon>rptDailyCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\NewLoanDetails.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NewLoanDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\PaymentAdd.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentAdd.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\rptApprovedDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptApprovedDoc.Designer.cs">
+      <DependentUpon>rptApprovedDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptNew_LoanDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptNew_LoanDetails.Designer.cs">
+      <DependentUpon>rptNew_LoanDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptAllCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptAllCustomer.Designer.cs">
+      <DependentUpon>rptAllCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\rptPaymentAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\rptPaymentAdd.Designer.cs">
+      <DependentUpon>rptPaymentAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Control.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Control.Designer.cs">
+      <DependentUpon>User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserSetting.cs" />
+    <Compile Include="User_ID.cs" />
+    <EmbeddedResource Include="ApprovePaymentDoc.resx">
+      <DependentUpon>ApprovePaymentDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Back_UP_Form.resx" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loan_Issue.resx">
+      <DependentUpon>Loan_Issue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Customer.resx">
+      <DependentUpon>New_Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Loan_Type.resx">
+      <DependentUpon>New_Loan_Type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\AllCustomer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllCustomer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\CompletedLoad.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CompletedLoad.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\DailyCollection.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyCollection.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\expir.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>expir.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\PayMethod.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PayMethod.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptCompletedLoan.resx">
+      <DependentUpon>rptCompletedLoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptExpire.resx">
+      <DependentUpon>rptExpire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPayMethode.resx">
+      <DependentUpon>rptPayMethode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptDailyCollection.resx">
+      <DependentUpon>rptDailyCollection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\NewLoanDetails.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NewLoanDetails.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\PaymentAdd.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PaymentAdd2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptApprovedDoc.resx">
+      <DependentUpon>rptApprovedDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptNew_LoanDetails.resx">
+      <DependentUpon>rptNew_LoanDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptAllCustomer.resx">
+      <DependentUpon>rptAllCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\rptPaymentAdd.resx">
+      <DependentUpon>rptPaymentAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Control.resx">
+      <DependentUpon>User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Account_and_Control.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\envelopes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find 02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\locker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loging-psd_03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loging-psd_05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-user-registration.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DAX Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Account_and_Control1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-screen-background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\men-computer-1-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Settings L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\coin-us-dollar-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Income.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\add user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Live Messenger alt 2_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\people-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Task Manager_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\User No-Frame_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\revenue-management-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Micro SD Card_mirror.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Admin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\log 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\wordpress-backup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\Businessman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pics\envelopes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Businessman.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Pics\approved-150x150.png" />
+    <None Include="Resources\Business_management_strategy_office-09-512.png" />
+    <None Include="Resources\settings.png" />
+    <None Include="Resources\new loan.jpg" />
+    <None Include="Resources\loanPayed.png" />
+    <None Include="Resources\payed.png" />
+    <None Include="Resources\ApprovedReport.png" />
+    <None Include="Resources\customerReport.png" />
+    <None Include="Resources\newloanReport.png" />
+    <None Include="Resources\approved-150x150.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
